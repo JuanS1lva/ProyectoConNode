@@ -1,0 +1,25 @@
+{
+  "name": "proyectoconnode",
+  "version": "1.0.0",
+  "description": "Proyecto con npm, node",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanS1lva/ProyectoConNode.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Juan Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanS1lva/ProyectoConNode/issues"
+  },
+  "homepage": "https://github.com/JuanS1lva/ProyectoConNode#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
